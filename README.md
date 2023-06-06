@@ -22,7 +22,7 @@ Added features:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/TcQ7Nq4.gif title='Video Walkthrough' 
+<img src='https://imgur.com/a/TcQ7Nq4.gif' title='Video Walkthrough' 
 width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif]
@@ -33,9 +33,12 @@ GIF created with [ScreenToGif]
 - Show the most trending sneakers 
 - Let user make an offer for a pair
 - Implemented 3d objects into the store
+
 ###Paypal
 - Easy & fast transactions by any card
 - Worldwide payment gateway
+
+
 ###Signal
 - Encrypted messages 
 - Private notes 
