@@ -5,7 +5,7 @@ Submitted by: Lorenzo Navarro
 **Grid** is an app that displays my basic information as an introductory 
 activity for my IOS Fall 2023 Codepath application. 
 
-Time spent: **1.6** hours spent in total
+Time spent: **1** hour spent in total
 
 #Required Features
 
@@ -14,19 +14,15 @@ The following **required** functionality is completed:
 - [ X ] Users are see a screen with three labels and a button
 - [ X ] Tapping the button changes the screen color to a random color
 
-Added features:
-- Own photo above the labels
-- Label font edited
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/TcQ7Nq4.gif title='Video Walkthrough' 
-width='' alt='Video Walkthrough' />
-
-GIF created with [ScreenToGif]
  
+
+
+
+
 ## App Brainstorming
 
 ###Goat
