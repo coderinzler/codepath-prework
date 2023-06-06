@@ -22,7 +22,7 @@ Added features:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/TcQ7Nq4.gif' title='Video Walkthrough' 
+<img src='https://imgur.com/WI63rnY.gif' title='Video Walkthrough' 
 width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif]
